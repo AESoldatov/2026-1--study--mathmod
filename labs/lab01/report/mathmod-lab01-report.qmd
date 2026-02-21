@@ -50,49 +50,47 @@ title: "Лабораторная работа №1"
 
 Создал скрипт "scripts/01_exponential_growth.jl" ([рис. @fig-001]).
 
-![Создание скрипта](image/ЛР1-1.jpg){#fig-001 width=70%}
+![Создание скрипта](image/ЛР1-1.png){#fig-001 width=70%}
 
 Прописал код скрипта ([рис. @fig-002]).
 
-![Код](image/ЛР1-2.jpg){#fig-002 width=70%}
+![Код](image/ЛР1-2.png){#fig-002 width=70%}
 
 Посмотрел график ([рис. @fig-003]).
 
-![График](image/ЛР1-3.jpg){#fig-003 width=70%}
+![График](image/ЛР1-3.png){#fig-003 width=70%}
 
 Переписал данный скрипт в литературном формате ([рис. @fig-004]).
 
-![Код](image/ЛР1-4.jpg){#fig-004 width=70%}
+![Код](image/ЛР1-4.png){#fig-004 width=70%}
 
 Выполнил переделанный скрипт ([рис. @fig-005]).
 
-![Новый скрипт](image/ЛР1-5.jpg){#fig-005 width=70%}
+![Новый скрипт](image/ЛР1-5.png){#fig-005 width=70%}
 
 Выполнил скрипт для генерации производных форматов "tangle.jl" ([рис. @fig-006]).
 
-![Выполнение](image/ЛР1-6.jpg){#fig-006 width=70%}
+![Выполнение](image/ЛР1-6.png){#fig-006 width=70%}
 
 Создал скрипт "scripts/02_exponential_growth.jl" ([рис. @fig-007]).
 
-![Создание скрипта](image/ЛР1-7.jpg){#fig-007 width=70%}
+![Создание скрипта](image/ЛР1-7.png){#fig-007 width=70%}
 
 Прописал код скрипта ([рис. @fig-008]).
 
-![Код](image/ЛР1-8.jpg){#fig-008 width=70%}
+![Код](image/ЛР1-8.png){#fig-008 width=70%}
 
 Выполнил скрипт ([рис. @fig-009]).
 
-![Выполнение](image/ЛР1-9.jpg){#fig-009 width=70%}
+![Выполнение](image/ЛР1-9.png){#fig-009 width=70%}
 
 Посмотрел созданные графики ([рис. @fig-010]).
 
-![Графики](image/ЛР1-10.jpg){#fig-010 width=70%}
+![Графики](image/ЛР1-10.png){#fig-010 width=70%}
 
-# Отчеты скриптов
+# Отчеты скриптов 
 
 {{< include ../project/markdown/01_exponential_growth/01_exponential_growth.qmd >}}
-
-{{< include ../project/markdown/02_exponential_growth/02_exponential_growth.qmd >}}
 
 
 # Выводы

@@ -1,8 +1,11 @@
 using DrWatson
 @quickactivate "../project"
 
-using DifferentialEquations
 using Plots
+default(fmt = :png)
+gr(fmt = :png)
+
+using DifferentialEquations
 using DataFrames
 
 function exponential_growth!(du, u, p, t)
