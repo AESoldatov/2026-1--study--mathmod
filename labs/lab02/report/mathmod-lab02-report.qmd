@@ -61,6 +61,8 @@ license: "CC BY"
 
 Здесь кратко описываются итоги проделанной работы.
 
+{{< include ../project/markdown/sir_ode/sir_ode.qmd >}}
+
 # Список литературы{.unnumbered}
 
 ::: {#refs}
